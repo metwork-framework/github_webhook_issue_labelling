@@ -1,10 +1,6 @@
-<a name=""></a>
-# (unreleased)
+<a name="unreleased"></a>
+## [Unreleased]
 
-
-### Features
-
-* first import ([aa175ed](https://github.com/metwork-framework/github_webhook_issue_labelling/commit/aa175ed))
-
-
+### Feat
+- first import
 
